@@ -15,7 +15,7 @@ import java.util.List;
 @Api(description = "the user API")
 
 
-@javax.annotation.Generated(value = "class io.swagger.codegen.languages.JavaJAXRSSpecServerCodegen", date = "2017-11-13T02:04:12.460Z")
+@javax.annotation.Generated(value = "class io.swagger.codegen.languages.JavaJAXRSSpecServerCodegen", date = "2017-11-13T03:10:50.820Z")
 
 public class UserApi  {
 
